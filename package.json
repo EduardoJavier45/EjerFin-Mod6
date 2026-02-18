@@ -1,0 +1,22 @@
+{
+  "name": "ejercfin-mod6-clima-spa",
+  "version": "1.0.0",
+  "description": "SPA de Clima desarrollada con Vue.js y Vue Router",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "vite": "^4.0.0"
+  },
+  "dependencies": {
+    "vue": "^3.2.47",
+    "vue-router": "^4.1.6"
+  },
+  "keywords": ["vue", "clima", "spa", "weather"],
+  "author": "Trainee Developer",
+  "license": "MIT"
+}
